@@ -124,3 +124,15 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 <div align="center">
   <i>Built with ❤️ for the terminal.</i>
 </div>
+
+## 🛣️ Future Roadmap
+
+We have exciting plans to expand THC Ai's capabilities:
+
+- **Multi-Model Support**: Integrate with a wider range of LLMs and model providers.
+- **Advanced RAG (Retrieval-Augmented Generation)**: Enhance the AI's ability to retrieve and utilize external information more effectively.
+- **Plugin System**: Allow users to easily extend THC Ai's functionality with custom plugins and tools.
+- **Voice Interface**: Add voice input and output capabilities for a more natural interaction.
+- **Cross-Platform Executables**: Provide standalone executables for easier distribution and use without Python installation.
+
+---
