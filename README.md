@@ -115,10 +115,6 @@ THC-Ai/
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Devanost/THC-Ai/issues).
-
 
  ## 🛣️ Future Roadmap
 
@@ -131,6 +127,10 @@ We have exciting plans to expand THC Ai's capabilities:
 - **Cross-Platform Executables**: Provide standalone executables for easier distribution and use without Python installation
 
 ---
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Devanost/THC-Ai/issues).
+
 
 <div align="center">
   <i>Built with ❤️ for the terminal.</i>
