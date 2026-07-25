@@ -7,7 +7,9 @@
 
 ## Downloads
 Windows: Portable executable (.exe) - 109MB
+
 macOS: Universal app for Intel & Apple Silicon (.zip) - 384MB
+
 Linux: AppImage - 173MB
 
 ## Installation
