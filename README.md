@@ -14,21 +14,31 @@ Linux: AppImage - 173MB
 
 ## Installation
 Download the appropriate version for your OS
+
 Extract or run the installer
+
 Configure your Omniroute API key in Settings
+
 Start chatting with 260+ AI models!
 
 ## Features
 260+ AI models via Omniroute
+
 Glassmorphism UI with smooth animations
+
 Real-time streaming chat responses
+
 Token tracking per session and model
+
 Persistent memory system
+
 Plugin architecture with Web Search
+
 Native notifications and system tray
+
 Cross-platform support
 
-Tech Stack
+## Tech Stack
 React 19 • Electron 43 • Tailwind CSS 4 • tRPC 11 • Omniroute API
 
 Built with ❤️ for AI enthusiasts
