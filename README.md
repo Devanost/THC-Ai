@@ -13,11 +13,10 @@ THC Ai is a premium terminal-based AI assistant built in Python. It features an 
 
 ## Installation
 
-1. Clone the repository or copy the files.
-2. Install dependencies:
+Install THC Ai with a single command:
 
 ```bash
-pip install rich openai python-dotenv
+curl -sSL https://raw.githubusercontent.com/Devanost/THC-Ai/main/install.sh | bash
 ```
 
 ## Configuration
