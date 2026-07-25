@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+thc_history.db
+.thc-skills/
+thc_ai.egg-info/
+dist/
+build/
+.vscode/
+.idea/
