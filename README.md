@@ -119,13 +119,8 @@ THC-Ai/
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Devanost/THC-Ai/issues).
 
----
 
-<div align="center">
-  <i>Built with ❤️ for the terminal.</i>
-</div>
-
-## 🛣️ Future Roadmap
+ ## 🛣️ Future Roadmap
 
 We have exciting plans to expand THC Ai's capabilities:
 
@@ -133,6 +128,11 @@ We have exciting plans to expand THC Ai's capabilities:
 - **Advanced RAG (Retrieval-Augmented Generation)**: Enhance the AI's ability to retrieve and utilize external information more effectively.
 - **Plugin System**: Allow users to easily extend THC Ai's functionality with custom plugins and tools.
 - **Voice Interface**: Add voice input and output capabilities for a more natural interaction.
-- **Cross-Platform Executables**: Provide standalone executables for easier distribution and use without Python installation.
+- **Cross-Platform Executables**: Provide standalone executables for easier distribution and use without Python installation
 
 ---
+
+<div align="center">
+  <i>Built with ❤️ for the terminal.</i>
+</div>
+
